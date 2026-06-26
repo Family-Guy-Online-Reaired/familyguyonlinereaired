@@ -1,0 +1,762 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl abandonedHouse_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd abandonedHouse_col.png
+map_d abandonedHouse_col.png
+
+newmtl americanFlag_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd americanFlag_col.png
+map_d americanFlag_col.png
+
+newmtl backdropClouds_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd backdropClouds_col.png
+map_d backdropClouds_col.png
+
+newmtl bark01_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd bark01_col.png
+map_d bark01_col.png
+
+newmtl barrierLight_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd barrierLight_col.png
+map_d barrierLight_col.png
+
+newmtl billboardHouse_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd billboardHouse_col.png
+map_d billboardHouse_col.png
+
+newmtl billboardTree_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd billboardTree_col.png
+map_d billboardTree_col.png
+
+newmtl brianBirdCarcass_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd brianBirdCarcass_col.png
+map_d brianBirdCarcass_col.png
+
+newmtl bush01_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd bush01_col.png
+map_d bush01_col.png
+
+newmtl bush02_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd bush02_col.png
+map_d bush02_col.png
+
+newmtl bush04_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd bush04_col.png
+map_d bush04_col.png
+
+newmtl bushLarge01_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd bushLarge01_col.png
+map_d bushLarge01_col.png
+
+newmtl chainlink_FGB_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd chainlink_col.png
+map_d chainlink_col.png
+
+newmtl checker_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd checker_col.png
+map_d checker_col.png
+
+newmtl collectables01_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd collectables01_col.png
+map_d collectables01_col.png
+
+newmtl colourPaletteOutline_FGCF_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPalette_col.png
+
+newmtl colourPaletteSuburbs_FGCF_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+
+newmtl colourPalette_FGF_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPalette_col.png
+map_d colourPalette_col.png
+
+newmtl delorian_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd delorean_col.png
+map_d delorean_col.png
+
+newmtl detailBrickSuburbs_FGFD_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+
+newmtl detailBrick_FGFD_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPalette_col.png
+map_d colourPalette_col.png
+
+newmtl detailDirt_FGFD_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+map_d colourPaletteSuburbs_col.png
+
+newmtl detailGarbagecan_FGFD_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPalette_col.png
+
+newmtl detailGrass_FGFM_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPalette_col.png
+
+newmtl detailGravel_FGFD_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPalette_col.png
+map_d colourPalette_col.png
+
+newmtl detailRoofingSuburbs_FGFM_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+
+newmtl detailRoofing_FGFM_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPalette_col.png
+
+newmtl detailRupert_FGCD_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPaletteSuburbs_col (2).png
+map_d colourPaletteSuburbs_col (2).png
+
+newmtl detailSand_FGFD_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+
+newmtl detailShingles_FGFD_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPalette_col.png
+map_d colourPalette_col.png
+
+newmtl detailSidewalkSuburbs_FGFD_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+
+newmtl detailSidewalk_FGFD_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPalette_col.png
+
+newmtl detailSidingSuburbs_FGFM_mat.003
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+map_d colourPaletteSuburbs_col.png
+
+newmtl detailSiding_FGFM_mat.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd colourPalette_col.png
+
+newmtl detailWindow_FGFD_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+map_d colourPaletteSuburbs_col.png
+
+newmtl dimicoHouse_FGFD_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPaletteSuburbs_col (1).png
+map_d colourPaletteSuburbs_col (1).png
+
+newmtl dirtBike_FGFG_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd peterDirtBike_col.png
+map_d peterDirtBike_col.png
+
+newmtl dome_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd dome_col.png
+map_d dome_col.png
+
+newmtl fence02_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd fence02_col.png
+map_d fence02_col.png
+
+newmtl fence03_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd fence03_col.png
+map_d fence03_col.png
+
+newmtl fence_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd fence01_col.png
+map_d fence01_col.png
+
+newmtl flower_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd flower_col.png
+map_d flower_col.png
+
+newmtl foliage01_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd foliage01_col.png
+map_d foliage01_col.png
+
+newmtl hugsKissesDaycare_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd hugsKissesDaycare_col.png
+map_d hugsKissesDaycare_col.png
+
+newmtl lawnChair_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd lawnChair_col.png
+map_d lawnChair_col.png
+
+newmtl mayorWestHere_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd mayorWestHere_col.png
+map_d mayorWestHere_col.png
+
+newmtl path01_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd path01_col.png
+map_d path01_col.png
+
+newmtl pillowcaseOfSodaCans_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd megPillowcaseOfSodaCans_col.png
+map_d megPillowcaseOfSodaCans_col.png
+
+newmtl podium_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd podiumSkirt_col.png
+map_d podiumSkirt_col.png
+
+newmtl policeSiren_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd policeSiren_col.png
+map_d policeSiren_col.png
+
+newmtl popsicleStand_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd popsicleStand_col.png
+map_d popsicleStand_col.png
+
+newmtl prius_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd prius_col.png
+map_d prius_col.png
+
+newmtl road01_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd road01_col.png
+map_d road01_col.png
+
+newmtl rock01_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd rock01_col.png
+map_d rock01_col.png
+
+newmtl screensDark_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd screensDark_col.png
+map_d screensDark_col.png
+
+newmtl screens_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd screens_col.png
+map_d screens_col.png
+
+newmtl shadowCircle_PAB_mat.003
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd shadowCircle_col.png
+map_d shadowCircle_col.png
+
+newmtl shadowGradient_PAB_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd shadowGradient_col.png
+map_d shadowGradient_col.png
+
+newmtl shadowTreePine_PAB_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd shadowTreePine_col.png
+map_d shadowTreePine_col.png
+
+newmtl shadowTree_PAB_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd shadowTree_col.png
+map_d shadowTree_col.png
+
+newmtl signHarvestPeterdactyl_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd prp_signHarvestHere_col.png
+map_d prp_signHarvestHere_col.png
+
+newmtl signs_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd signs_col.png
+map_d signs_col.png
+
+newmtl skyClouds_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd skyClouds_col.png
+map_d skyClouds_col.png
+
+newmtl skyEastWest_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd skyEastWest_col.png
+map_d skyEastWest_col.png
+
+newmtl skyNorth_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd skyNorth_col.png
+map_d skyNorth_col.png
+
+newmtl skySouth_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd skySouth_col.png
+map_d skySouth_col.png
+
+newmtl spiralSlide_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd spiralSlide_col.png
+map_d spiralSlide_col.png
+
+newmtl townhallOfficeSign_FGF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd townhallOfficeSign_col.png
+map_d townhallOfficeSign_col.png
+
+newmtl trashbag_FGCF_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd trashbag_col.png
+map_d trashbag_col.png
+
+newmtl tree01_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd tree01_col.png
+map_d tree01_col.png
+
+newmtl tree02_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd tree02_col.png
+map_d tree02_col.png
+
+newmtl tree03_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd tree03_col.png
+map_d tree03_col.png
+
+newmtl treePine_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd treePine01_col.png
+map_d treePine01_col.png
+
+newmtl waterEdge_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd waterEdge_col.png
+map_d waterEdge_col.png
+
+newmtl weeds_FGFT_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd prp_weeds_col.png
+map_d prp_weeds_col.png
+
+newmtl windowCar_FGW_mat.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd windowCar_col.png
+map_d windowCar_col.png

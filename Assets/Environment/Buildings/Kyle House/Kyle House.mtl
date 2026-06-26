@@ -1,0 +1,72 @@
+# Blender 5.0.1 MTL File: 'modeler resource icon set up.blend'
+# www.blender.org
+
+newmtl chainlink_PAB_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/PC/Desktop/A1/chainlink_col.png
+map_d C:/Users/PC/Desktop/A1/chainlink_col.png
+
+newmtl colourPaletteKylesHouse_FGCF_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/PC/Desktop/A1/colourPaletteKylesHouse.png
+map_d C:/Users/PC/Desktop/A1/colourPaletteKylesHouse.png
+
+newmtl detailSiding_FGFD_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/PC/Desktop/A1/colourPaletteKylesHouse.png
+map_d C:/Users/PC/Desktop/A1/colourPaletteKylesHouse.png
+
+newmtl detailTile_FGFD_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/PC/Desktop/A1/colourPaletteKylesHouse.png
+map_d C:/Users/PC/Desktop/A1/colourPaletteKylesHouse.png
+
+newmtl interiorBooks_FGCF_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/PC/Desktop/A1/books_col.png
+map_d C:/Users/PC/Desktop/A1/books_col.png
+
+newmtl paintings_FGF_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/PC/Desktop/A1/paintings_col.png
+map_d C:/Users/PC/Desktop/A1/paintings_col.png
+
+newmtl shadowGradient_FGB_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/PC/Desktop/A1/shadowGradient_col.png
+map_d C:/Users/PC/Desktop/A1/shadowGradient_col.png

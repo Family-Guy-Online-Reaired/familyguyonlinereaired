@@ -1,0 +1,212 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl den_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd griffinHouseDen_col.png
+map_d griffinHouseDen_col.png
+
+newmtl detailBrick_FGFD_mat1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorColourPalette_col.png
+map_d interiorColourPalette_col.png
+
+newmtl detailCarpet_FGFD_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorColourPalette_col.png
+map_d interiorColourPalette_col.png
+
+newmtl detailCheckered_FGFD_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorColourPalette_col.png
+map_d interiorColourPalette_col.png
+
+newmtl detailChrisBed_FGFD_mat.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorColourPalette_col.png
+map_d interiorColourPalette_col.png
+
+newmtl detailScreens_FGFD_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd interiorColourPalette_col.png
+
+newmtl detailSidingSuburbs_FGFM_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd colourPaletteSuburbs_col.png
+map_d colourPaletteSuburbs_col.png
+
+newmtl detailWindowZings_FGFD_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorColourPalette_col.png
+map_d interiorColourPalette_col.png
+
+newmtl griffinChrisRoom_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd griffinHouseChrisRoom_col.png
+map_d griffinHouseChrisRoom_col.png
+
+newmtl griffinHouseCollectables01_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd griffinHouseCollectables_01_col.png
+map_d griffinHouseCollectables_01_col.png
+
+newmtl griffinHouseKitchenLiving_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd griffinHouseKitchenLiving_col.png
+map_d griffinHouseKitchenLiving_col.png
+
+newmtl griffinHouseMasterBedroom_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd griffinHouseMasterBedroom_col.png
+map_d griffinHouseMasterBedroom_col.png
+
+newmtl griffinHouseMegsRoom_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd griffinHouseMegsRoom_col.png
+
+newmtl griffinHousePortraits_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd griffinHousePortraits_col.png
+map_d griffinHousePortraits_col.png
+
+newmtl griffinHouseStewieBanner_FGF_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd griffinHouseStewieBanner_col.png
+map_d griffinHouseStewieBanner_col.png
+
+newmtl griffinHouseStewiesRoom_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd griffinHouseStewiesRoom_col.png
+map_d griffinHouseStewiesRoom_col.png
+
+newmtl interiorBooks_FGCF_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorBooks_col.png
+map_d interiorBooks_col.png
+
+newmtl interiorColourPalette_FGCF_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorColourPalette_col.png
+map_d interiorColourPalette_col.png
+
+newmtl interiorCurtain_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorCurtain_col.png
+map_d interiorCurtain_col.png
+
+newmtl shadowCircle_PAB_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd shadowCircle_col.png
+map_d shadowCircle_col.png
+
+newmtl shadowGradient_FGB_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd shadowGradientGriffin_col.png
+map_d shadowGradientGriffin_col.png

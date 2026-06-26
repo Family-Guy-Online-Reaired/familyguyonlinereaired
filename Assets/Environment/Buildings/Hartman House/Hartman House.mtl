@@ -1,0 +1,122 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl detailBrick_FGFD_mat1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd interiorColourPalette_col.png
+
+newmtl detailCarpet_FGFD_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd interiorColourPalette_col.png
+
+newmtl detailTile_FGFD_mat.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd interiorColourPalette_col.png
+
+newmtl detailWindowZings_FGFD_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd interiorColourPalette_col.png
+
+newmtl hartmanBedroom_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd HartmanBedroom_col.png
+map_d HartmanBedroom_col.png
+
+newmtl hartmanFamilyroom_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd hartmanFamilyroom_col.png
+map_d hartmanFamilyroom_col.png
+
+newmtl hartmanKitchen_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd hartmanKitchen_col.png
+map_d hartmanKitchen_col.png
+
+newmtl hartmanLivingroom_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd hartmanLivingroom_col.png
+map_d hartmanLivingroom_col.png
+
+newmtl herbertCurtain_FGFT_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd herbertCurtain_col.png
+map_d herbertCurtain_col.png
+
+newmtl interiorColourPalette_FGCF_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd interiorColourPalette_col.png
+map_d interiorColourPalette_col.png
+
+newmtl shadowCircle_PAB_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd shadowCircle_col.png
+map_d shadowCircle_col.png
+
+newmtl shadowGradient_FGB_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd shadowGradientGriffin_col.png
+map_d shadowGradientGriffin_col.png
